@@ -30,6 +30,7 @@ window.MASTER_SITE = {
     { title: 'ভিডিও', url: 'videos.html' },
     { title: 'ব্লগ', url: 'blog.html' },
     { title: 'যোগাযোগ', url: 'contact.html' }
+    { title: 'আমার সম্পর্কে', url: 'about.html' },
   ],
 
   // ==============================
